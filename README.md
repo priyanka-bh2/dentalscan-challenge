@@ -42,3 +42,12 @@ Implement a messaging sidebar on the result page.
 - Email your repo link to `rachana@dentalscan.us`.
 
 **Happy Coding!**
+
+## ✅ Completed Tasks
+
+1. **Scan Enhancement** — Mouth guide overlay with red→amber→green 
+   stability feedback and auto-capture countdown
+2. **Notification System** — Scan completed trigger with Prisma, 
+   async fire-and-forget dispatch
+3. **Patient-Dentist Messaging** — Full messaging sidebar on results 
+   page with optimistic UI and backend persistence
